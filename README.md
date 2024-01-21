@@ -1,2 +1,2 @@
 # PhotoArchivist
- Tools for copying unique image files to a Calendar-based catalogu
+ Tools for copying unique image files to a Calendar-based catalogue
